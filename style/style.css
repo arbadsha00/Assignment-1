@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap");
 
+
 * {
   box-sizing: border-box;
   padding: 0px;
@@ -34,11 +35,12 @@
 }
 /* nav end */
 
-/* banner section */
+/* banner section start*/
+
 .banner-container {
   display: flex;
   margin: 0 auto;
-  background-image: url("/images/Hero-bg.png");
+  background-image: url("../images/Hero-bg.png");
   background-repeat: no-repeat;
   background-position: center;
   width: 1440px;
@@ -68,3 +70,4 @@
   padding: 21px 24px;
   color: rgb(255, 255, 255);
 }
+/* banner section end*/
