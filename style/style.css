@@ -158,11 +158,10 @@
   align-items: center;
   flex-direction: column;
   gap: 24px;
-
   padding-left: 144px;
   padding-right: 144px;
 }
-.inspire-video-conatoner {
+.inspire-video-container {
   padding: 32px;
   border: 1px solid rgba(13, 19, 33, 0.2);
   border-radius: 16px;
